@@ -5,13 +5,13 @@
 <h2>Usage</h2>
 
 <h3>Install dependencies</h3>
-<p><code>npm install</code></p>
+<p><pre><code>npm install</code></pre></p>
 
 <h3>Run Angular server (http://localhost:4200)</h3>
-<p><code>ng serve</code></p>
+<p><pre><code>ng serve</code></pre></p>
 
 <h3>Run the JSON server (http://localhost:5000)</h3>
-<p><code>npm run server</code></p>
+<p><pre><code>npm run server</code></pre></p>
 
 <h3>To build for production</h3>
-<p><code>ng build</code></p>
+<p><pre><code>ng build</code></pre></p>
